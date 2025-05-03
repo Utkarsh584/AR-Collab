@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5599357050536215693
+  m_GuidHigh: 17033991693483584398
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5647485783711684740
+      m_GuidHigh: 4605093783869526930
+    m_SerializedTextureGuid:
+      m_GuidLow: 14502798287538852494
+      m_GuidHigh: 15677445307390637083
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: marker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4682672045633052323
+      m_GuidHigh: 1639798923791504794
+    m_SerializedTextureGuid:
+      m_GuidLow: 4554431404321567627
+      m_GuidHigh: 8481758881956976443
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: earth
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5193890164237006793
+      m_GuidHigh: 1647412679556693131
+    m_SerializedTextureGuid:
+      m_GuidLow: 8143754069329233082
+      m_GuidHigh: 13861291935367317818
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: one
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4858878723007482873
+      m_GuidHigh: 12941698181472573363
+    m_SerializedTextureGuid:
+      m_GuidLow: 13106782171570476898
+      m_GuidHigh: 1652824919646692586
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: two
+    m_Texture: {fileID: 0}
